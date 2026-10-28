@@ -126,10 +126,6 @@ The applications run on separate EC2 instances, demonstrating service separation
 
 Build and publish Docker images for the Flask backend and Express frontend to Amazon ECR, then deploy both applications on Amazon ECS using AWS Fargate.
 
-### AWS Region
-
-`ap-southeast-2` (Asia Pacific – Sydney)
-
 ### Implementation Steps
 
 1. Create Dockerfiles for the Flask backend and Express frontend.
