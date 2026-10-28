@@ -1,0 +1,40 @@
+# Terraform files
+**/.terraform/
+*.tfstate
+*.tfstate.*
+*.tfplan
+crash.log
+override.tf
+override.tf.json
+*_override.tf
+*_override.tf.json
+
+# Sensitive Terraform variables
+**/terraform.tfvars
+**/*.tfvars
+**/*.tfvars.json
+
+# AWS credentials and private keys
+.aws/
+*.pem
+*.key
+credentials
+
+# Python
+__pycache__/
+*.py[cod]
+venv/
+env/
+.env
+
+# Node.js
+node_modules/
+
+# Operating system
+.DS_Store
+Thumbs.db
+desktop.ini
+
+# IDE
+.vscode/
+.idea/
