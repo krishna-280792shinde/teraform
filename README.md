@@ -1,4 +1,4 @@
-# Terraform Infrastructure Deployment – DevOps Assignment
+# Terraform Infrastructure Deployment
 
 ## Project Overview
 
