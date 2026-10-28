@@ -216,4 +216,4 @@ This project demonstrates three approaches to AWS application deployment using T
 
 ## GitHub Repository
 
-Repository: **Add your GitHub repository URL here.**
+Repository: [GitHub](https://github.com/krishna-280792shinde/teraform)
